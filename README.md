@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuhari</h1>
-<h3 align="center">A passionate frontend, backand, and software developer from Indonesia</h3>
+<h3 align="center">A passionate frontend, backend, and software developer from Indonesia</h3>
 
 - ⚡ Fun fact **I am introvert**
 
